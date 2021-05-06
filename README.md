@@ -1,2 +1,3 @@
-# glitch with sound
- glitch with sound and button
+# Simple example of audio with Howler
+
+An empty webpage for HTML/CSS/JavaScript exercises.
